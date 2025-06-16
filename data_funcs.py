@@ -1,8 +1,6 @@
 import pandas as pd
 import difflib
 import numpy as np
-from prophet import Prophet
-from sklearn.ensemble import IsolationForest
 import plotly.express as px
 import plotly.graph_objects as go
 
